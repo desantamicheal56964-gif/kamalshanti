@@ -1,0 +1,6 @@
+{
+  "name": "Kamalshanti Palace",
+  "description": "Luxurious dark-themed portfolio website for Kamalshanti Palace wedding and event lawn in Chalisgaon, Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
